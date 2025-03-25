@@ -1,4 +1,3 @@
-# UniMAP
 # [CVPR 2025] Universal Domain Adaptation for Semantic Segmentation
 
 Official PyTorch implementation for CVPR 2025 paper:
